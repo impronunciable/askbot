@@ -2,6 +2,7 @@
 # AskBot
 
 Facebook Messenger Ask Bot. Takes a random form and ask questions to your users.
+Inspired on Buzzfeed BuzzBot https://github.com/buzzfeed-openlab/buzzbot
 
 ## Installation
 
