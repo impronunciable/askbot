@@ -1,0 +1,19 @@
+{
+  "name": "askbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "messenger-bot": "^2.3.0"
+  },
+  "engines": {
+    "node": "6.3.1"
+  }
+}
